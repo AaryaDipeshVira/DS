@@ -1,6 +1,3 @@
-P.2. Implement linked list Includes options for 
-Insertion deletion and search of a number, reverse
-The list and concatenate two minded lists.
 
 def _init_(self, data): 
 
